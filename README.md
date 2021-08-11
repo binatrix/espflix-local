@@ -1,4 +1,4 @@
-# ESPFLIX indexer
+# ESPFLIX local
 
 This work is based on the amazing **ESPFLIX** project by [@rossumur](https://github.com/rossumur) that you can visit at this link: https://github.com/rossumur/espflix
 
